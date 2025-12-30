@@ -1,0 +1,3 @@
+Estimated age of the universe: 13.77 Gyr
+WMAP 5-year best-fit age: 13.73 ± 0.12 Gyr
+Difference: 0.04 Gyr
